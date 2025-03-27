@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\bin\Debug\App3-EPI-Funcionario.exe.config
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\bin\Debug\App3-EPI-Funcionario.exe
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\bin\Debug\App3-EPI-Funcionario.pdb
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3-EPI-Funcionario.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3_EPI_Funcionario.appForm3.resources
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3_EPI_Funcionario.Properties.Resources.resources
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3-EPI-Funcionario.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3-EPI-Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3-EPI-Funcionario.exe
+C:\Users\Aluno\source\repos\App3-EPI-Funcionario\App3-EPI-Funcionario\obj\Debug\App3-EPI-Funcionario.pdb
